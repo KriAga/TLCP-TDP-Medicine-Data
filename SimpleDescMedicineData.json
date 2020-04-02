@@ -1,0 +1,14 @@
+{
+    "Paracetamol": {
+      "description": "Acetaminophen (paracetamol), also commonly known as _Tylenol_, is the most commonly taken analgesic worldwide and is recommended as first-line therapy ...",
+      "simple_description": "A medication used to reduce fever and treat pain."
+    },
+    "Aspirin": {
+      "description": "Aspirin is known as a salicylate and a nonsteroidal anti-inflammatory drug (NSAID)",
+      "simple_description": "Aspirin is used to reduce fever and relieve mild to moderate pain from conditions such as muscle aches, toothaches, common cold, and headaches."
+    },
+    "Ceftriaxone": {
+      "description": "A broad-spectrum cephalosporin antibiotic with a very long half-life and high penetrability to meninges, eyes and inner ears.",
+      "simple_description": "Aspirin is used to reduce fever and relieve mild to moderate pain from conditions such as muscle aches, toothaches, common cold, and headaches."
+  }
+}
